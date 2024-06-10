@@ -9956,6 +9956,7 @@ body .booked-modal .bm-window p.appointment-title,
 
 .trx_addons_icon-menu1:before {
     content: url('/image/hamburger.svg');
+    width: 80px;
     
 }
 
