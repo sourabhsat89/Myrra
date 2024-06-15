@@ -15,7 +15,11 @@ const images = [
     './image/gallery/abt1.jpg', './image/gallery/abt2.jpg', './image/gallery/abt3.jpg',
     './image/gallery/abt4.avif', './image/gallery/abt5.jpg', './image/gallery/abt6.webp',
     './image/gallery/abt7.jpg', './image/gallery/abt8.avif', './image/gallery/abt9.avif',
-    './image/gallery/abt10.jpg', './image/gallery/abt1.jpg', './image/gallery/abt1.jpg'
+    './image/gallery/abt10.jpg', './image/gallery/abt11.avif', './image/gallery/abt12.jpg',
+    './image/gallery/abt13.jpg', './image/gallery/abt14.jpg', './image/gallery/abt15.jpg',
+    './image/gallery/abt16.jpg', './image/gallery/abt17.jpg', './image/gallery/abt18.jpg',
+    './image/gallery/abt19.jpg', './image/gallery/abt20.jpg', './image/gallery/abt21.jpg',
+    './image/gallery/abt22.jpg',  './image/gallery/abt24.jpg'
 ];
 
 const totalPages = Math.ceil(images.length / imagesPerPage);
