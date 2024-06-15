@@ -2,7 +2,7 @@
 
 .sidebar {
     position: fixed;
-    bottom: 10%;
+    bottom: 5%;
     right: 0;
     transform: translateY(-50%);
     display: flex;
