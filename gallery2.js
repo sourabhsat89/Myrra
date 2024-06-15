@@ -12,10 +12,10 @@ let currentPage = 1;
 
 const images = [
     // Array of image URLs
-    '/image/gallery/abt1.jpg', '/image/gallery/abt2.jpg', '/image/gallery/abt3.jpg',
-    '/image/gallery/abt4.avif', '/image/gallery/abt5.jpg', '/image/gallery/abt6.webp',
-    '/image/gallery/abt7.jpg', '/image/gallery/abt8.avif', '/image/gallery/abt9.avif',
-    '/image/gallery/abt10.jpg', '/image/gallery/abt1.jpg', '/image/gallery/abt1.jpg'
+    './image/gallery/abt1.jpg', './image/gallery/abt2.jpg', './image/gallery/abt3.jpg',
+    './image/gallery/abt4.avif', './image/gallery/abt5.jpg', './image/gallery/abt6.webp',
+    './image/gallery/abt7.jpg', './image/gallery/abt8.avif', './image/gallery/abt9.avif',
+    './image/gallery/abt10.jpg', './image/gallery/abt1.jpg', './image/gallery/abt1.jpg'
 ];
 
 const totalPages = Math.ceil(images.length / imagesPerPage);
